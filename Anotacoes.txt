@@ -19,4 +19,10 @@
 >> git push
 
 7 - Por fim, para unir os diferentes Branchs
->>gir merge "Nome do Brench"
+>>git merge "Nome do Brench"
+
+8 - Pegar todas as atualizacoes do remoto e traz pro local
+>>git pull
+
+9 - Clonar um projeto existente
+>> git clone "URL" "Nome que quer dar"
