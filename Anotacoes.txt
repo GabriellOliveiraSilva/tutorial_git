@@ -18,3 +18,5 @@
 6 - Enviar o commit
 >> git push
 
+7 - Por fim, para unir os diferentes Branchs
+>>gir merge "Nome do Brench"
