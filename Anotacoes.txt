@@ -6,3 +6,11 @@
 
 3 - Enviar o arquivos
 >> git add "nome do arquivo" ou .
+
+4 - Para fazer o commit:
+>>git commit -a -m "Criacao arquivo html"
+-a adiciona todas as mudanças
+-m adiciona uma mensagem 
+
+5 - Mudar o "BrencH", é como se fosse a abertura de uma nova tarefa
+>git checkout -b "Nome"
