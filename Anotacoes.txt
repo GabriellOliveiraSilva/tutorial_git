@@ -1,0 +1,8 @@
+1 - Acionar o Git Init para criar a pasta .Git
+>> git init
+
+2 - Mostra os arquivos que precisam ser versionados/upados para o git
+>>git status
+
+3 - Enviar o arquivos
+>> git add "nome do arquivo" ou .
