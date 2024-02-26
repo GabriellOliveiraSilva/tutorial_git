@@ -14,3 +14,7 @@
 
 5 - Mudar o "BrencH", é como se fosse a abertura de uma nova tarefa
 >git checkout -b "Nome"
+
+6 - Enviar o commit
+>> git push
+
